@@ -4,7 +4,6 @@
 
 This project is a Netflix recommendation system built using Cosine Similarity. It suggests movies and TV shows to users based on their preferences. The system utilizes a dataset of Netflix titles to calculate similarity scores and generate recommendations.
 
----
 
 ## Features:
 
@@ -13,8 +12,7 @@ This project is a Netflix recommendation system built using Cosine Similarity. I
 * Implementation of a recommendation algorithm using Cosine Similarity.
 
 * Provides personalized recommendations based on content similarity.
-  
----
+
 
 ## Dataset:
 
