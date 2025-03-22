@@ -9,7 +9,7 @@ This project is a Netflix recommendation system built using Cosine Similarity. I
 
 * Data preprocessing for cleaning and transforming the dataset.
   
-* Utilized Word2vec model for converting text to vectors (Vector Space Model)
+* Utilized Word2vec model for converting text to vectors (Vector Space Model).
 
 * Implementation of a recommendation algorithm using Cosine Similarity.
 
